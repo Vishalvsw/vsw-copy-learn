@@ -1,0 +1,6 @@
+{
+  "name": "VSW ML HUB - Production Machine Learning Project Library",
+  "description": "Access practical machine learning projects, source code, datasets, architecture guides, and AI assistance. Learn. Copy. Build. Deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
